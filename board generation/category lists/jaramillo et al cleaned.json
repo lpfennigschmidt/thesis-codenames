@@ -1,0 +1,8 @@
+{"categories": ["animal", "body", "clothes", "color", "day", "dessert", "food", "relative", "room", "shape", "sound", "toy", "beverage", "bird", "building", "coin", "collectable", "condiment", "container", "dinosaur", "direction", "emotion", "flower", "fruit", "holiday", "ingredient", "insect", "instrument", "job", "jungle animal", "liquid", "measure", "month", "movie", "story", "pattern", "planet", "plant", "reptile", "rhyming", "season", "sense", "silverware", "size", "solid", "sport", "transportation", "tool", "vegetable", "writing", "ability", "businesses", "city", "country", "communication", "continent", "currency", "exercise", "habitat", "hazard", "mammal", "material", "metal", "ocean", "president", "school subject", "seasoning", "state", "symbol", "texture", "tree", "weather", "colony", "ancient civilization", "constellation", "cuisine", "element", "landmark", "government type", "gas", "gem", "organ", "language", "mineral", "mountain", "music type", "precipitation", "book", "religion", "tradition"],
+"excluded_categories": {
+	"syntax-related": ["word", "punctuation", "vowels", "abbreviations", "adjectives", "consonants", "letter", "character", "nouns", "numbers", "speech", "tenses", "verbs", "adverbs"],
+	"nonsense-categories": ["magnify", "units",  "name", "fastener"],
+	"duplicates": ["sound", "size", "punctuation"]
+	}
+}
+
